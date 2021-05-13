@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sidb91
 - 👀 I’m interested in Software Development to help humanity.
 - 🌱 I’m currently learning React and Azure
-- 💞️ I’m looking to collaborate on Community developement apps.
+- 💞️ I’m looking to collaborate on Community development apps.
 - 📫 How to reach me - sidb91@outlook.com
 
 <!---
