@@ -6,7 +6,7 @@ Email: sidb91@outlook.com
 
 - Expert in Java 8, Spring Boot, and Angular 19, with specialization in Production-grade Generative AI (RAG) and MLOps. 
 
-- Advanced practitioner in AI-Augmented Engineering, orchestrating AI Agents to manage the full SDLC—from architecting scalable, resilient backends to translating Figma designs into state-managed front-ends. 
+- Advanced practitioner in AI-Augmented Engineering, orchestrating AI Agents to manage the full SDLC—from architecting scalable, resilient microservice backends to translating Figma designs into state-managed front-ends. 
 
 - Proven track record in the Insurance and Finance domains, delivering secure, high-scale distributed cloud native systems for global leaders like Legal & General, AIG, and MetLife.
 
